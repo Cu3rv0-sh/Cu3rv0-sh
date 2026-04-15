@@ -64,24 +64,6 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Cu3rv0-sh/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cu3rv0-sh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00f2ff&icon_color=00f2ff&text_color=D3D3D3&bg_color=0D1117" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cu3rv0-sh&show_icons=true&locale=en&layout=compact&line_height=20&title_color=00f2ff&icon_color=00f2ff&text_color=D3D3D3&bg_color=0D1117" width="375"  alt="Cu3rv0-sh"/>
-</a>
-</div>
-
-<br>
-<br>
-
------
-
-<br>
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
