@@ -1,17 +1,20 @@
 <h1 align="center"><b>Hi, I'm Cu3rv0-sh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- 🚀 **Full Stack Developer** apasionado por crear aplicaciones escalables y eficientes.
-- 🛠️ **Entusiasta del IoT**, integrando hardware como ESP32 y Arduino con plataformas web modernas.
-- 🐧 Usuario activo de **Arch Linux** (Hyprland) y amante de la productividad en **Neovim** (LazyVim).
-- 🧬 Actualmente desarrollando un **sistema modular de monitoreo de salud para mascotas** y una **plataforma para el seguimiento de la calidad de vida y salud**.
-- 🎓 Estudiante enfocado en el desarrollo de software y la excelencia técnica.
+- 🚀 **Full Stack Developer** passionate about creating scalable and efficient applications.
 
+- 🛠️ **IoT Enthusiast**, integrating hardware like ESP32 and Arduino with modern web platforms.
+
+- 🐧 **Active** user of **Arch Linux** (Hyprland) and a productivity enthusiast in Neovim (LazyVim).
+
+- 🧬 **Currently developing** a modular pet health monitoring system and a platform for tracking quality of life and health.
+
+- 🎓 Student focused on **software development** and *technical excellence**.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
