@@ -87,5 +87,4 @@
 <div align='center'>
 
 ## <b>Happy Coding! ⚡</b>
-<br>
 </div>
