@@ -8,10 +8,6 @@
 
 ## 🧑‍💻 About me
 
-<picture>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px">
-</picture>
-
 - 🚀 **Full Stack Developer** passionate about scalable and efficient applications.
 - 🛠️ **IoT Enthusiast** — integrating ESP32 & Arduino with modern web platforms.
 - 🐧 **Arch Linux** user (Hyprland) and **Neovim** enthusiast (LazyVim).
