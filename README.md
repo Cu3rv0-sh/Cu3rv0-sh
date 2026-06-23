@@ -9,7 +9,7 @@
 ## 🧑‍💻 About me
 
 <picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px">
 </picture>
 
 - 🚀 **Full Stack Developer** passionate about scalable and efficient applications.
